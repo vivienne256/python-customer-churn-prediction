@@ -44,7 +44,7 @@ The dataset includes:
 6. Model evaluation
 7. Business interpretation
 
-## Models Used
+## Models Used （TBM)
 
 - Logistic Regression
 - Random Forest
@@ -64,8 +64,3 @@ The dataset includes:
 For churn prediction, recall is especially important because the business wants to identify as many potential churn customers as possible.
 
 ## Files
-
-- `notebooks/01_churn_prediction_model.ipynb`: Main modelling notebook
-- `data/README.md`: Dataset instructions
-- `results/model_results.md`: Model performance summary
-- `notes/project_summary.md`: Project summary and insights
